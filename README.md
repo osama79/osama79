@@ -84,9 +84,9 @@ I pride myself on delivering **quality solutions** within the scope, budget, and
    [View Project](link to project)
 
 ## Contact Information
-- **LinkedIn**: ![LinkedIn](https://image-url) [Connect with me on LinkedIn](your-linkedin-url)
+- <a href="https://linkedin.com/in/alijobs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - **Email**: oalijobs@gmail.com
-- **Phone**: +971501006195 (Dubai), +923028008539 (Pakistan)
+- **Phone**: +971 501006195 (Dubai), +92 3028008539 (Pakistan), +1 (202) 549 0202 (USA)
 
 ## Conclusion
 This portfolio serves as a showcase of my journey, expertise, and passion for **cybersecurity**. I look forward to connecting with like-minded professionals and organizations who are keen on cybersecurity excellence. Please feel free to browse through my projects and reach out for collaboration or opportunities.
